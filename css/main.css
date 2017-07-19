@@ -1,0 +1,64 @@
+body{padding:0;margin:0;100%;min-width: 1190px;font-family: "微软雅黑"}
+img {padding: 0;margin-bottom: 0;border:0;}
+a{text-decoration: none;color:#404040;}
+a:hover{color:#2c7ac4;}
+
+.top{width:100%;margin:auto;height:30px;background: #ddd;border-bottom: 2px solid #cacaca;float:left;}
+.top .con{width:1190px;margin:0 auto;}
+.top .ti{height:30px;margin-left:20px;color:#666;font-family: "黑体";font-size:14px;line-height:30px;display:block;float:left;}
+.top .ti img{height:30px;display:black;float:left;}
+.top .ti  span{height:30px;line-height:30px;display:block;float:left;}
+
+.head{width:100%;float:left;}
+.head .con{width:1190px;margin:0 auto;height:105px;}
+.head .con .logo{width:240px;height:80px;margin-top:20px;float:left;margin-left:10px;}
+.head .con .logo img{width:100%;height:100%;}
+.head .con .search{width:360px;height:40px;margin-top:40px;float:left;margin-left:560px;}
+.head .con .search input{display:block;float:left;margin:0;padding:0;font-size:16px;}
+.head .con .search .key{width:265px;padding-left:10px;height:35px;border:1px solid #ea4b2e;}
+.head .con .search .btn{width:75px;height:37px;border:1px solid #ea4b2e;background:#ea4b2e;color:#fff;font-family:"微软雅黑";}
+
+.head .con .advimg{width:680px;height:70px;float:left;margin-left: 250px;margin-top: 20px;}
+
+.head .son{width:100%;background: #404045;height:35px;}
+.head .son .line{width:1190px;margin:0 auto;}
+.head .son .line a{display:block;height:35px;line-height: 33px;text-align: center;color:#fff;font-family: "微软雅黑";float:left;padding:0 22px;cursor:pointer;}
+.head .son .line .ti{background: #fff;color:#666;border-top:2px solid #f00;line-height:33px;height:33px;}
+.head .son .line .tc{background: #fff;color:#666;border-top:2px solid #f00;line-height:33px;height:33px;}
+
+/**单机首页导航**/
+.head .som{width:100%;background: #404045;height:35px;}
+.head .som .line{width:1190px;margin:0 auto;}
+.head .som .line a{display:block;height:35px;line-height: 33px;text-align: center;color:#fff;font-family: "微软雅黑";float:left;padding:0 30px;cursor:pointer;}
+.head .som .line .ti{background: #fff;color:#666;border-top:2px solid #f00;line-height:33px;height:33px;}
+.head .som .line .tc{background: #fff;color:#666;border-top:2px solid #f00;line-height:33px;height:33px;}
+
+/**二级导航栏**/
+.head .ton {width:100%;position:absolute;/**float:left;**/}
+.head .ton .topline_out{width: 1190px;position: relative;margin: auto;}
+.head .ton .topline{height:40px;width:auto;/**float:left;**/display:none;position:relative;z-index:100;}
+.head .ton .topline p{margin:0 ; padding:0 ; float:left;width:100px;height:40px;line-height:40px;text-align:center;font-size:16px;background:#f6f6f6;}
+.head .ton .topline p a{color:#303028;}
+.head .ton .topline  p.td  a{color:#ea502a;}
+
+.head .ton  .news{margin-left:380px;}
+.head .ton  .gl{margin-left:605px;}
+.head .ton  .android{margin-left:755px;}
+.head .ton  .down{margin-left:635px;}
+.head .ton  .patch{margin-left:780px;}
+
+
+.foot {width:100%;background:#ddd; float:left;margin-top:30px;border-top: 1px solid #b8b8bf;}
+.foot .con{width:1190px;margin:0 auto;}
+.foot .headline{width:100%;height:30px;line-height: 30px;text-align: left;font-size: 16px;}
+.foot .cont{width:100%;float:left;padding-bottom: 10px;border-bottom: 1px solid #b8b8bf;}
+.foot .cont a{ width:auto;padding:5px 5px;display: block;float:left;font-family:"宋体";font-size: 14px;color:#666666;}
+.foot .con .co{width:100%;margin-top:20px;float:left;}
+.foot .con .co .jx{width:240px;margin-left:20px;float:left;border-right:1px solid #b8b8bf;}
+.foot .con .co .head{width:100%;height:30px;line-height:30px;font-family:"黑体";font-size:16px;}
+.foot .con .co .jx .li{float:left;width:50%;line-height:30px;height:30px;font-family:"宋体";font-size:14px;color:#666;}
+.foot .con .co .qr{width:360px;margin-left:30px;float:left;}
+.foot .con .co .qr img{width:120px;height:120px;display:block;float:left;}
+.foot .con .co .qr .ti{width:230px;margin-left:10px;float:left;line-height:25px;font-size:14px;font-family:"宋体";color:#666; }
+.foot .con .conv{margin:20px 0;padding-top:20px;line-height:20px;font-family:"宋体";font-size:12px;color:#999;text-align:center;border-top:1px solid #b8b8bf;}
+.foot .con .conv p{margin:0;padding:0;}
