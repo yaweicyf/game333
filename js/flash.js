@@ -9,8 +9,8 @@
 **flash.js?width=255&height=250 传入幻灯片的高度宽度，同比缩放；
 **不依赖jQuery 框架；
 **兼容IE8 ，chrome ，firfox，
-** create at : 2015-11-09;
-** 							
+** create at : 2016-11-09;
+** create by : yaweicyf							
 **/
 
 (function(){
